@@ -468,7 +468,7 @@ img {
 
 /*reviews*/
 .reviews-photo{
-    background-image: url('/assets/img/reviews/reviews.jpg');
+    background-image: url('../img/reviews/reviews.jpg');
 }
 
 .reviews-item{
@@ -788,10 +788,10 @@ hr{
 } */
 
 .feedback-photo{
-    background-image: url('/assets/img/feedback/feedback.jpg');
+    /* background-image: url('/assets/img/feedback/feedback.jpg'); */
     background: 
 		linear-gradient(rgba(246, 246, 246, 0.53), rgba(0, 0, 0, 0.471)), 
-		url('/assets/img/feedback/feedback.jpg');
+		url('../img/feedback/feedback.jpg');
 }
 
 .feedback-item{
